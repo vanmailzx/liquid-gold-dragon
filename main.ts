@@ -1,4 +1,4 @@
-// Liquid gold dragon erupting from a porcelain teacup — a make.fun ai-excited-01 entry.
+// Liquid Gold Dragon — the teacup cannot hold it.
 // Copies the entry image to the output directory, byte for byte.
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
